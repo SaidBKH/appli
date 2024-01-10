@@ -1,0 +1,49 @@
+
+body {
+
+    font-family: 'Arial',
+
+}
+
+
+h1 {
+
+    color: #0c571f;
+
+}
+
+input {
+
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+
+}
+
+input[type="submit"] {
+
+    background-color: #4CAF50;
+    color: white;
+}
+
+table {
+
+    width: 50%;
+
+}
+
+table, th, td { 
+
+border : 1px solid black
+
+
+
+}
+
+th {
+
+    background-color: #4CAF50;
+    color: rgb(255, 255, 255);
+
+}
+
